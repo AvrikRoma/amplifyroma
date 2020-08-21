@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"amplifyroma79e27364": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
